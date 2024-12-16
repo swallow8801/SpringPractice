@@ -1,1 +1,1 @@
-# SpringPractice
+# Spring Boot 실습
